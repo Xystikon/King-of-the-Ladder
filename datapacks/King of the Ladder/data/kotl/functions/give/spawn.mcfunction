@@ -1,0 +1,4 @@
+give @p minecraft:armor_stand{display:{Name:'{"text":"Player1 Spawn","italic":false}'},Enchantments:[{id:"minecraft:knockback",lvl:1s}],EntityTag:{Marker:1b,Invisible:1b,Tags:["player1_spawn"]}} 1
+give @p minecraft:armor_stand{display:{Name:'{"text":"Player2 Spawn","italic":false}'},Enchantments:[{id:"minecraft:knockback",lvl:1s}],EntityTag:{Marker:1b,Invisible:1b,Tags:["player2_spawn"]}} 1
+give @p minecraft:armor_stand{display:{Name:'{"text":"Player3 Spawn","italic":false}'},Enchantments:[{id:"minecraft:knockback",lvl:1s}],EntityTag:{Marker:1b,Invisible:1b,Tags:["player3_spawn"]}} 1
+give @p minecraft:armor_stand{display:{Name:'{"text":"Player4 Spawn","italic":false}'},Enchantments:[{id:"minecraft:knockback",lvl:1s}],EntityTag:{Marker:1b,Invisible:1b,Tags:["player4_spawn"]}} 1

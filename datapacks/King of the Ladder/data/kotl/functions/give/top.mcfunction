@@ -1,0 +1,1 @@
+give @p minecraft:armor_stand{display:{Name:'{"text":"Top of the Ladder Marker","italic":false}'},Enchantments:[{id:"minecraft:knockback",lvl:1s}],EntityTag:{Marker:1b,Invisible:1b,Tags:["top"]}} 1
